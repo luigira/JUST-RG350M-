@@ -12,6 +12,7 @@ Also I prefer the gambatte-dms (https://github.com/bardeci/gambatte-dms) and reG
 
 You can download the img and put it on an sd card (8gb or more) and added a second sd card or expand the "sdcard" partition on the system sd card and add your games under roms folder then gb for example (SDCARD/ROMS/GB/), you can modify section groups on .simplemenu to add more systems. Just remember to name the second sdcard or the extended partition as "SDCARD".
 
+# video
 This is a mini tour to the system. Enjoy!
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Fjr4lRH9pt0/0.jpg)](https://www.youtube.com/watch?v=Fjr4lRH9pt0)
