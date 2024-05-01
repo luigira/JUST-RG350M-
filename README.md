@@ -16,7 +16,7 @@ This is a mini tour to the system. Enjoy!
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/Fjr4lRH9pt0/0.jpg)](https://www.youtube.com/watch?v=Fjr4lRH9pt0)
 
-##Bios
+## Bios
 
 You need to add your bios for better compatibility.
 
@@ -26,7 +26,7 @@ gba bios under /.gpsp/ with name gba_bios.bin
 
 you can acess this directories with commander (dingux cmdr) easily, just quit simplemenu once, move the files from your computer to any folder on sd card and then add it to each directory.
 
-##Perks
+## Perks
 
 - Native bilinear filter, on stock you can control a bilinear filter, default is a little sharp but you can press POWER + DPAD UP or DPAD DOWN to change the value. For example with GB and Gambatte core in RA you can use aspect as core provided an use a lot more of the screen real state, but with the dotmatrix vide filter pixels dont look good, if you add a little more of bilinear filter you can make it look amazing!
 - Stability, Opendingux Beta is super inestabe on my device, no matter what, a lot of crashes an freezes, with stock firmware this is not an issue, stability is amazing, I neve experience a crash or freeze.
