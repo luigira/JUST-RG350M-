@@ -20,9 +20,9 @@ This is a mini tour to the system. Enjoy!
 
 You need to add your bios for better compatibility.
 
-psx bios under /.pcsx4all/bios with name SCPH1001.bin
-gb and gbc bios under /.gambatte/bios/ with names gb_bios.bin and gbc_bios.bin
-gba bios under /.gpsp/ with name gba_bios.bin
+- PSX bios under /.pcsx4all/bios with name SCPH1001.bin
+- GB and gbc bios under /.gambatte/bios/ with names gb_bios.bin and gbc_bios.bin
+- GBA bios under /.gpsp/ with name gba_bios.bin
 
 you can acess this directories with commander (dingux cmdr) easily, just quit simplemenu once, move the files from your computer to any folder on sd card and then add it to each directory.
 
