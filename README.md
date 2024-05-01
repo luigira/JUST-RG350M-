@@ -6,7 +6,7 @@ I just want to create an image for Anbernic rg350m with installed retroarch core
 
 SO to eduardofilo and his RG350_auto_ra_installer (https://github.com/eduardofilo/RG350_auto_ra_installer) as I use it as template for compile retroarch for original firmware.
 
-This version aims for a relaible experience, I really enjoyed Adam Image but it was super unstable on my device bc of the OpenDingux beta firmware, so I decided to compile retroarch for original stock firmware and put all togheter on an image.
+This version aims for a relaible experience, I really enjoyed Adam Image but it was super unstable on my device bc of the OpenDingux beta firmware, so I decided to compile retroarch for original stock firmware and put all together on an image.
 
 Also I prefer the gambatte-dms (https://github.com/bardeci/gambatte-dms) and reGBA (https://github.com/jdgleaver/ReGBA) emuators on the 350M so I aim for it, I complement it all with Simplemenu (https://github.com/fgl82/simplemenu) and a Gameboy theme (https://github.com/Yarkiebrown/GameBoy-Theme) and voila!
 
@@ -28,6 +28,6 @@ you can acess this directories with commander (dingux cmdr) easily, just quit si
 
 ## Perks
 
-- Native bilinear filter, on stock you can control a bilinear filter, default is a little sharp but you can press POWER + DPAD UP or DPAD DOWN to change the value. For example with GB and Gambatte core in RA you can use aspect as core provided an use a lot more of the screen real state, but with the dotmatrix vide filter pixels dont look good, if you add a little more of bilinear filter you can make it look amazing!
-- Stability, Opendingux Beta is super inestabe on my device, no matter what, a lot of crashes an freezes, with stock firmware this is not an issue, stability is amazing, I neve experience a crash or freeze.
-- Native emulators, Gambatte-DMS has a specific version for this device and it works great, I really enjoy the filters and paletes available with this emulators, regba is the same, it can use HW scalers and make GBA look good with amazing performance on this device.
+- Native bilinear filter, on stock you can control a bilinear filter, default is a little sharp but you can press POWER + DPAD UP or DPAD DOWN to change the value. For example with GB and Gambatte core in RA you can use aspect as core provided an use a lot more of the screen real state, but with the dotmatrix video filter pixels dont look good, if you add a little more of bilinear filter you can make it look amazing!
+- Stability, Opendingux Beta is super unstable on my device, no matter what, a lot of crashes an freezes, with stock firmware this is not an issue, stability is amazing, I never experience a crash or freeze.
+- Native emulators, Gambatte-DMS has a specific version for this device and it works great, I really enjoy the filters and palettes available with this emulators, regba is the same, it can use HW scalers and make GBA look good with amazing performance on this device.
